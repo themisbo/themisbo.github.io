@@ -182,12 +182,12 @@ body{
     padding-top: 10px;
 }
 
-#showcase h2{
+/* #showcase h2{
     color: rgb(158, 78, 78);
     font-size: 60px;
     line-height: 1.2em;
     padding-top: 10px;
-}
+} */
 
 #main{
     float: left;
@@ -265,5 +265,12 @@ body{
         top: -30px;
         right: -265px;
         left: inherit;
+    }
+    
+    #showcase h1{
+        color: rgb(158, 78, 78);
+        font-size: 80px;
+        line-height: 1em;
+        padding-top: 10px;
     }
 }
