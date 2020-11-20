@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600');
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,800&display=swap');
-/* <link href="https://fonts.googleapis.com/css2?family=Caveat&display=swap" rel="stylesheet"> */
+@import url('//fonts.googleapis.com/css2?family=Caveat&display=swap');
 body{
     background-color: #f4f4f4;
     color: #555;
