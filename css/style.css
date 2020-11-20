@@ -167,12 +167,12 @@ body{
 
 #showcase{
     background-image: url(../images/pencils_showcase.jpg);
-    background-position: center right;
+    background-position: center;
     background-attachment: fixed;
     min-height: 300px;
     margin-bottom: 30px;
     text-align: center;
-    font-family: 'Caveat', serif;
+    font-family: 'Caveat', cursive;
 }
 
 #showcase h1{
