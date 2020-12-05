@@ -28,6 +28,11 @@ body{
     background-color: #c5c5c5;
 }
 
+.timeline h1
+{
+    line-height: 1.2;
+}
+
 .timeline ul
 {
     margin: 0;
